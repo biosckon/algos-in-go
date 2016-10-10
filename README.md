@@ -1,2 +1,2 @@
-[x] Insert Sort
+- [x] Insert Sort
 
